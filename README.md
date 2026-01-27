@@ -35,6 +35,3 @@ This is my **first JavaScript project**, created to understand API handling, asy
   Open-Meteo Air Quality API  
 
 ---
-
-## 📂 Project Structure
-
