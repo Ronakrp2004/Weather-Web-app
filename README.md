@@ -36,11 +36,5 @@ This is my **first JavaScript project**, created to understand API handling, asy
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots of your app here)
-
----
-
 ## 📂 Project Structure
 
